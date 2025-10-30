@@ -1,12 +1,27 @@
-<!-- Product card: Doctor Taller -->
-<div class="product-card">
-<a href="https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129" target="_blank" rel="noopener noreferrer">
-<img src="https://doctortaller.com/cdn/shop/files/product-main.jpg" alt="Doctor Taller - 60 Vegan Capsules" class="product-img" />
+<!-- Product card: Doctor Taller (Extended Version) -->
+<div class="product-card" style="max-width:520px;border:1px solid #e3e3e3;border-radius:10px;overflow:hidden;font-family:system-ui,Arial;background:#fff;box-shadow:0 4px 12px rgba(0,0,0,0.06);">
+<a href="https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129" target="_blank" rel="noopener noreferrer" style="display:block;">
+<img src="https://doctortaller.com/cdn/shop/files/product-main.jpg" alt="Doctor Taller - 60 Vegan Capsules" style="width:100%;height:auto;display:block;" />
 </a>
-<div class="product-info">
-<h2>Doctor Taller — For Children (8+) & Teens</h2>
-<p class="tagline">60 Vegan Capsules • Vitamins, Minerals & Herbal Extracts</p>
-<p class="short-desc">Hỗ trợ tăng trưởng tự nhiên, xương chắc khỏe và phát triển toàn diện cho trẻ em và thanh thiếu niên.</p>
-<a class="btn" href="https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129" target="_blank">Xem sản phẩm</a>
+<div class="product-info" style="padding:18px 20px;">
+<h2 style="margin:0 0 10px;font-size:20px;font-weight:600;color:#111;">Doctor Taller — For Children (8+) & Teens</h2>
+<p style="margin:0 0 6px;font-size:14px;color:#666;">60 Vegan Capsules • Premium Growth Support Formula</p>
+
+
+<p style="margin:10px 0 14px;font-size:15px;line-height:1.5;color:#333;">
+Doctor Taller cung cấp các vitamin thiết yếu, khoáng chất và chiết xuất thảo dược tự nhiên giúp hỗ trợ phát triển chiều cao, củng cố sức khỏe xương và thúc đẩy quá trình tăng trưởng tự nhiên ở trẻ em từ 8 tuổi trở lên và thanh thiếu niên trong giai đoạn phát triển quan trọng.
+</p>
+
+
+<ul style="padding-left:18px;margin:0 0 16px;color:#333;font-size:14px;line-height:1.6;">
+<li>Hỗ trợ tăng trưởng xương & phát triển tầm vóc</li>
+<li>Bổ sung dưỡng chất cần thiết cho giai đoạn dậy thì</li>
+<li>Giúp cơ thể hấp thụ canxi hiệu quả hơn</li>
+<li>Không chứa thành phần từ động vật • Thuần chay (Vegan)</li>
+<li>Sản xuất theo tiêu chuẩn chất lượng cao</li>
+</ul>
+
+
+<a href="https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129" target="_blank" style="display:inline-block;padding:10px 18px;background:#0b63ce;color:#fff;text-decoration:none;border-radius:6px;font-size:15px;font-weight:500;">Xem sản phẩm</a>
 </div>
 </div>
